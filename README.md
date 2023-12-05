@@ -17,13 +17,22 @@ https://github.com/Valentinbejan/proiect-react3/assets/118570823/cc17efaf-016f-4
 reulare:
 
 npm install
+
 npm install antd
+
 npm install axios
+
 npm install react-dom
+
 npm install react-dropdown
+
 npm install react-icons
+
 npm install react-scripts
+
 npm install react
+
 npm install web-vitals
+
 npm start
 
