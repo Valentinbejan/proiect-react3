@@ -14,6 +14,7 @@
 https://github.com/Valentinbejan/proiect-react3/assets/118570823/cc17efaf-016f-478b-9583-64e3cb6cd07b
 
 
+reulare:
 
 npm install
 npm install antd
